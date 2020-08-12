@@ -1,0 +1,501 @@
+breed,city,state,pet_id,name
+Redbone Coonhound,Andover,MA,48752074,Jade
+Labrador Retriever,New York,NY,48752069,Wish
+Shiba Inu,TULSA,OK,48752062,Molly
+Retriever,White Plains,NY,48751967,Brindi
+Greyhound,Wasco,CA,48751842,(FRECKLES) AVAILABLE AUG 24 2020
+Pit Bull Terrier,Albuquerque,NM,48752073,Posole
+Catahoula Leopard Dog,Corpus Christi,TX,48752072,Alyx
+Redbone Coonhound,Andover,MA,48752050,Jackson
+Chihuahua,Columbus,OH,48752065,Bacon
+Pit Bull Terrier,Columbus,OH,48752066,Handsome
+Pit Bull Terrier,Columbus,OH,48752067,Anya
+Pit Bull Terrier,Columbus,OH,48752068,Gidget
+Mixed Breed,Columbus,OH,48752064,Puck
+Terrier,Los Angeles,CA,48751918,Tikka the Terrier!
+Labrador Retriever,New York,NY,48752060,Wonder
+Shiba Inu,TULSA,OK,48752053,Kiara
+Pit Bull Terrier,TULSA,OK,48752044,Betty the Bully
+Jack Russell Terrier,TULSA,OK,48752013,Swift
+Pit Bull Terrier,Des Peres,MO,48751605,Rey
+Cocker Spaniel,Reston,VA,48751920,Nifty Nikki
+Pit Bull Terrier,New York,NY,48752027,TALLIE
+Beagle,Houston,TX,48752021,FITZ
+Chihuahua,Wenatchee,WA,48752020,Chico
+Shepherd,Greenville,SC,48752012,Tre
+Labrador Retriever,Longview,TX,48752008,Cotton Candy
+Bloodhound,Bowling Green,KY,48752006,Benjamin
+Poodle,Fairport,NY,48751996,Coco
+Beagle,Noblesville,IN,48751991,Rosie
+Mixed Breed,Chamblee,GA,48751980,Ozzie
+Mixed Breed,Chamblee,GA,48751981,Bruno Mars
+West Highland White Terrier / Westie,Santa Maria,CA,48751977,Gunner
+Hound,Largo,FL,48751976,Humphrey
+Hound,TULSA,OK,48751954,Stella
+Cattle Dog,Rifle,CO,48751950,Hazel
+German Shepherd Dog,Gretna,NE,48751965,Ellen (Battlestar Galactica Litter)
+German Shepherd Dog,Gretna,NE,48751964,Boomer (Battlestar Galactica Litter) *PENDING*
+Boxer,Cedaredge,CO,48751962,Rudy
+Manchester Terrier,Turlock,CA,48751886,Clyde
+Great Dane,Brookville,OH,48751916,Harley
+Pit Bull Terrier,Bishop,GA,48751919,Tiana
+Terrier,Chicago,IL,48751914,Rocco
+Labrador Retriever,Houston,TX,48751941,Juliet
+Labrador Retriever,Lawrenceville,GA,48751938,Lexington
+Chihuahua,Brewster,NY,48751917,Lila
+Boxer,El Paso,TX,48751936,45275117
+Boxer,El Paso,TX,48751937,45275094
+Hound,Richmond,VA,48751930,Daffodil
+Hound,Richmond,VA,48751931,High Hat
+Foxhound,Chino Hills,CA,48751922,Boone - Chino Hills Location
+Mixed Breed,Waukesha,WI,48751928,Silver
+Chihuahua,Chino Hills,CA,48751924,Nostradamus - Chino Hills Location
+Belgian Shepherd / Malinois,Chino Hills,CA,48751923,Toby - Costa Mesa location
+Beagle,Chino Hills,CA,48751921,Little Kim - Chino Hills Location
+German Shepherd Dog,MONUMENT,CO,48751898,Bran
+Yellow Labrador Retriever,Reston,VA,48751903,Charming Clutch
+Chihuahua,Brewster,NY,48751790,Big Tex
+Mixed Breed,Wichita,KS,48751912,Daisy May
+Labrador Retriever,Wichita,KS,48751910,Hannah
+Pointer,Granbury,TX,48751904,Trixie
+Retriever,Cheyenne,WY,48751887,Trixie
+Labrador Retriever,Reston,VA,48751846,Heavenly Halo
+Cattle Dog,Dallas,TX,48751900,NALA
+Shepherd,Dallas,TX,48751899,MISHA
+Mixed Breed,Franklin,TN,48751883,COACHELLA
+Pointer,Granbury,TX,48751811,Dixie
+Pit Bull Terrier,Oakland,CA,48751888,Buddy
+Pit Bull Terrier,Oakland,CA,48751889,Cole
+Pit Bull Terrier,Plainfield,IL,48751852,Desi
+Shih Tzu,Cheyenne,WY,48751849,Liam
+Shepherd,Hattiesburg,MS,48751856,Pumpernickle
+Labrador Retriever,Hattiesburg,MS,48751857,Paloma
+Shepherd,Hattiesburg,MS,48751858,Paisley
+Shepherd,Hattiesburg,MS,48751859,Pippa
+Wheaten Terrier,Orange,CA,48751855,Barney
+Labrador Retriever,Willington,CT,48751797,Jack
+Shar-Pei,Dillsburg,PA,48751381,Cole
+Mixed Breed,Kansas City,MO,48751804,Bessie
+Dachshund,Cheyenne,WY,48751809,Bridget
+Mixed Breed,Charlottesville,VA,48751840,Patch
+Terrier,Dallas,GA,48751833,20-08-1921 Bridget
+Terrier,Grand Rapids,MI,48751832,Pete
+American Staffordshire Terrier,Grand Rapids,MI,48751831,Nevaeh
+Chihuahua,Athens,TX,48751826,Buffy
+Mixed Breed,Philadelphia,PA,48751824,Gouda Boy
+Labrador Retriever,Tuscaloosa,AL,48751823,TUSC-Stray-tu1510_2
+Labrador Retriever,Tuscaloosa,AL,48751822,TUSC-Stray-tu1510_4
+Labrador Retriever,Tuscaloosa,AL,48751820,TUSC-Stray-tu1510_3
+Labrador Retriever,Tuscaloosa,AL,48751821,TUSC-Stray-tu1510
+Dachshund,Evansville,IN,48751818,Henry
+Terrier,McKenzie,TN,48751741,MammaMia
+Chihuahua,Granite Shoals,TX,48749166,Pearl
+Mixed Breed,Kansas City,MO,48751776,Dorothy
+German Shepherd Dog,Oceanside,CA,48751792,Chewie
+Dachshund,Oceanside,CA,48751791,Godric
+Beagle,Midland,MI,48751747,Mason
+Labrador Retriever,Dallas,TX,48751779,DOOLEY
+Labrador Retriever,Alvin,TX,48751778,Fern
+Chihuahua,White Plains,NY,48750947,Andy
+Shepherd,Gainesville,FL,48751758,Oriah
+American Staffordshire Terrier,Palmyra,VA,48751719,Paul
+Labrador Retriever,Alvin,TX,48751778,Fern
+Chihuahua,White Plains,NY,48750947,Andy
+Shepherd,Gainesville,FL,48751758,Oriah
+Coonhound,Lihue,HI,48751756,Covey
+Coonhound,Lihue,HI,48751755,Canyon
+Pointer,Lihue,HI,48751754,Lutsen
+American Staffordshire Terrier,Palmyra,VA,48751719,Paul
+Pomeranian,Benton,LA,48751746,Crikey
+Chihuahua,Osteen,FL,48751745,Roxy
+Hound,Osteen,FL,48751744,Piper
+Labrador Retriever,McKenzie,TN,48751678,Hailey
+Pit Bull Terrier,Rochester ,NY,48751724,Tate
+Terrier,Oakland,CA,48751732,Frida
+Redbone Coonhound,Grand Rapids,MI,48751730,Angus
+Mixed Breed,Jacksonville,FL,48751727,Chop
+Boston Terrier,Fredericksburg,TX,48751716,Otto
+Chihuahua,Winchester,CA,48751705,LENNY (APPLICATIONS ONLY southernstaranimalrescue.org
+Labrador Retriever,Austin,TX,48751695,Obsidian
+Terrier,Bryant,AR,48751710,Binkee
+Great Pyrenees,Dallas,TX,48751704,FAlKOR
+Shih Tzu,Dallas,TX,48751703,OREO
+German Shepherd Dog,Gold Beach,OR,48751697,Nalla
+Corgi,Gold Beach,OR,48751699,Misty
+Border Collie,Gold Beach,OR,48751698,Hope
+German Shepherd Dog,Gold Beach,OR,48751696,Nalla
+Great Pyrenees,Los Angeles,CA,48751658,Alaska
+Weimaraner,Fayetteville,AR,48751687,Mercy
+Border Collie,Temple,TX,48751390,Pearl
+Australian Cattle Dog / Blue Heeler,Albuquerque,NM,48751648,Tommy
+Labrador Retriever,Navasota,TX,48751391,Dee Dee
+Terrier,San Luis Obispo,CA,48751645,Harley
+Poodle,Monterey,CA,48751644,Coco
+Chihuahua,Oakland,CA,48751641,Manny
+Maltese,Tupelo,MS,48751642,Forrest Gump - 081108N
+English Pointer,Tupelo,MS,48751643,Spot - 081102N
+Catahoula Leopard Dog,Brooklyn,NY,48751636,Rocky Road
+German Shepherd Dog,Brooklyn,NY,48751637,Matcha
+Pit Bull Terrier,Brooklyn,NY,48751640,Cheese
+Labrador Retriever,Delaware,OH,48751635,Georgi
+Shepherd,Lawrenceville,GA,48751632,Sd 16
+Boxer,Manhattan,KS,48751615,Ollie
+Great Pyrenees,Los Angeles,CA,48751620,Bubbles
+Beagle,Turlock,CA,48751387,Bruce Wayne
+Chihuahua,Chattanooga,TN,48751388,Bebe
+Sheep Dog,El Paso,TX,48751606,Aurora
+Pit Bull Terrier,Allison Park,PA,48751385,Zeus
+Chihuahua,Winchester,CA,48751617,PHOEBE )APPLICATIONS ONLY southernstaranimalrescue.org)
+Hound,Chicopee,MA,48751616,FIRECRACKER
+Mixed Breed,Bainbridge,GA,48751612,Andy
+Pit Bull Terrier,St. Louis,MO,48751618,Gumby
+Mastiff,Reston,VA,48751344,Reliable Rocky
+Yorkshire Terrier,El Paso,TX,48751393,Silas
+Labrador Retriever,Dallas,TX,48751603,MILO
+Australian Cattle Dog / Blue Heeler,Dallas,TX,48751604,LILY
+Beagle,Greenville,SC,48751592,Daisy
+Mixed Breed,West Seneca,NY,48751571,KOBE
+Pit Bull Terrier,West Seneca,NY,48751574,LEVI
+Schnauzer,West Seneca,NY,48751581,ROXEE
+Pit Bull Terrier,Bartlesville,OK,48751591,Patches
+Retriever,Bartlesville,OK,48751590,Gemma
+Labrador Retriever,Woodbury,MN,48751566,Kurry
+Retriever,Bartlesville,OK,48751589,Billie
+Chihuahua,Norman,OK,48751562,Little Boomer
+Beagle,Rochester Hills,MI,48751565,Elsa
+Pit Bull Terrier,Bartlesville,OK,48751564,Toby
+Chihuahua,Norman,OK,48751557,Zoey
+Pit Bull Terrier,Coon Rapids,MN,48751555,Esme
+Pit Bull Terrier,Golden Valley,MN,48751546,Mae
+Labrador Retriever,Golden Valley,MN,48751547,Rocky
+Chihuahua,Independence,MO,48751517,Sparky
+Schipperke,Reno,NV,48751530,Shorty
+Shepherd,Houston,TX,48751541,ROWDY
+Labrador Retriever,Independence,MO,48751518,Aurora
+Parson Russell Terrier,Spartanburg,SC,48751540,Buddy
+Saint Bernard,Bowling Green,KY,48751515,Cream
+Mixed Breed,Maumee,OH,48751503,Andromeda
+Cattle Dog,La Harpe,KS,48751507,Oakley
+Mixed Breed,Maumee,OH,48751504,Condor
+Pit Bull Terrier,Owensboro,KY,48751505,Sadie HW(-)
+Terrier,Largo,FL,48751493,Aero
+Retriever,Largo,FL,48751494,Juan
+Beagle,Noblesville,IN,48751496,Gertrude
+Mixed Breed,Chamblee,GA,48751497,Adora - ADOPTED
+Siberian Husky,New Castle,DE,48751491,Kojack
+Shiba Inu,New Castle,DE,48751492,Kiko
+German Shepherd Dog,Justin,TX,48751392,Sloan
+German Shepherd Dog,Tavares,FL,48751397,HANK
+American Staffordshire Terrier,Tavares,FL,48751394,KLAUS
+German Shepherd Dog,Seattle,WA,48751377,Kira
+German Shepherd Dog,Justin,TX,48751378,Sasha
+Mixed Breed,El Paso,TX,48751351,Fuego
+Shetland Sheepdog / Sheltie,Coupeville,WA,48751350,Babe
+Chihuahua,LINDSAY,CA,48751379,Max (GrandPaws)
+Chihuahua,Longview,TX,48751371,Uma Thurman
+American Bully,League City,TX,48751250,Tank - Complimentary Post
+Karelian Bear Dog,Red Deer,AB,48751360,Mickey
+Terrier,Huntington,WV,48751356,Pixie
+Australian Cattle Dog / Blue Heeler,Livingston,TX,48751341,Jazzy
+Collie,Coupeville,WA,48751347,Geina
+Border Collie,Wasco,CA,48751054,(ATARI) AVAILABLE AUG 24 2020
+Border Collie,Wasco,CA,48751054,(ATARI) AVAILABLE AUG 24 2020
+Terrier,Spring Hill,FL,48751215,Vera
+Collie,Coupeville,WA,48751327,Bo
+Labrador Retriever,Converse,TX,48751336,Jamo 1066
+Labrador Retriever,Livingston,TX,48751324,Casper
+Catahoula Leopard Dog,Justin,TX,48751249,Hamilton
+Terrier,Enid,OK,48751332,Pilot
+Labrador Retriever,Livingston,TX,48751310,Lily
+Shepherd,Dallas,TX,48751317,JACK
+Shepherd,Dallas,TX,48751316,HONEY
+Labrador Retriever,Coldwater,MI,48751216,Mila
+Rat Terrier,Cranston,RI,48751309,Diamond in TX
+Cattle Dog,PHOENIX,AZ,48751182,Klaus
+Labrador Retriever,Converse,TX,48751252,John 1070
+Labrador Retriever,Converse,TX,48751251,Lara 1067
+Pointer,Marseilles,IL,48751230,Patch
+Terrier,Miami,FL,48751248,Baby Jill
+Pit Bull Terrier,League City,TX,48751062,Rose - Complimentary Post
+Shepherd,Hattiesburg,MS,48751233,Persephone
+Shepherd,Hattiesburg,MS,48751234,Persimmon
+Shepherd,Hattiesburg,MS,48751235,Presley
+Papillon,Orange,CA,48751227,Duncan
+Spaniel,Mentone,CA,48751217,Luckey
+Siberian Husky,Knoxville,TN,48751213,Rascal
+Labrador Retriever,Converse,TX,48751211,Gianna 1071
+Mixed Breed,Charlottesville,VA,48751208,Babble
+Labrador Retriever,Charlottesville,VA,48751209,Quiche
+Mixed Breed,Charlottesville,VA,48751210,Sangria
+Chihuahua,Monterey,CA,48751204,Pico
+Shepherd,Lawrenceville,GA,48751201,Pen 185 Piper
+Beagle,Evansville,IN,48751190,Bartley
+Beagle,Fenton,MI,48748269,MARKY
+Terrier,Madisonville,KY,48750864,Citrus
+Pit Bull Terrier,Phoenix,AZ,48751181,NICOLE
+Chihuahua,Rockford,IL,48751174,A432436
+Miniature Pinscher,Santa Maria,CA,48751173,TEHTIA
+Beagle,Saint Louis,MO,48751166,REGGIE
+Plott Hound,Saint Louis,MO,48751168,ROMAN
+Labrador Retriever,Saint Louis,MO,48751167,REID
+Border Collie,Houston,TX,48751157,LEIA
+Rhodesian Ridgeback,Santa Maria,CA,48751169,MAYA
+Weimaraner,Houston,TX,48751156,DJ
+Hound,Oklahoma City,OK,48751149,RUBY
+German Shepherd Dog,Oklahoma City,OK,48751150,ROXY
+Shih Tzu,Colorado Springs,CO,48751151,MOJITO
+Terrier,Colorado Springs,CO,48751154,GORDO
+Labrador Retriever,Fort Lauderdale,FL,48751142,SCOUT
+American Staffordshire Terrier,Fort Lauderdale,FL,48751140,PACO
+Chihuahua,Fort Lauderdale,FL,48751141,WALLY
+German Shepherd Dog,Omaha,NE,48751128,TITUS
+Australian Cattle Dog / Blue Heeler,Omaha,NE,48751133,ORCHID
+Labrador Retriever,Houston,TX,48751120,A559501
+Boxer,Houston,TX,48751117,ABBY
+Labrador Retriever,Houston,TX,48751116,A556625
+Terrier,Panama City,FL,48751111,ROSIE
+Pit Bull Terrier,Las Vegas,NV,48751121,BUBBA
+Mixed Breed,San Pedro,CA,48751094,SKIPPY
+Labrador Retriever,Denver,CO,48751105,CINDER
+Siberian Husky,Denver,CO,48751103,BELLA T
+American Bulldog,Denver,CO,48751108,DAKOTA
+Siberian Husky,Denver,CO,48751104,MIDAS
+Pit Bull Terrier,Denver,CO,48751106,BRUSSEL SPROUT
+American Staffordshire Terrier,San Antonio,TX,48751102,LUNA
+German Shepherd Dog,San Antonio,TX,48751099,BEAR
+American Staffordshire Terrier,San Antonio,TX,48751101,SAMURAI
+Chihuahua,San Antonio,TX,48751100,XAVIER
+Pit Bull Terrier,Vero Beach,FL,48751091,DELLA
+Pug,Long Beach,CA,48751089,A646961
+Chihuahua,Long Beach,CA,48751090,CHARLIE
+German Shepherd Dog,San Antonio,TX,48751098,KING
+German Shepherd Dog,St. Louis,MO,48751075,BLUE
+Chihuahua,Upland,CA,48751065,A058607
+Poodle,Burbank,CA,48751063,PAULIE
+Catahoula Leopard Dog,Justin,TX,48751031,Roo
+Lhasa Apso,Annapolis,MD,48751041,Dutchess Ripley
+Shepherd,New Orleans,LA,48751023,Bella Boo
+Shar-Pei,Wasco,CA,48750798,(DAPHNE) AVAILABLE AUG 24 2020
+Shepherd,San Antonio,TX,48751051,Lovey
+Shepherd,Knoxville,TN,48751050,Donken
+Poodle,San Clemente,CA,48750995,Baxter
+Pit Bull Terrier,Bastrop,TX,48751044,Bowzer 20-08-053
+German Shepherd Dog,Yuma,AZ,48751012,Lucky
+Hound,Gainesville,FL,48751007,Cali
+Great Pyrenees,Spring,TX,48751005,Luca
+Great Dane,Iron Station,NC,48751002,Thor
+Great Dane,Iron Station,NC,48751001,Ace
+Great Dane,Iron Station,NC,48751000,Louie
+Great Dane,Iron Station,NC,48751003,Holly
+Boxer,Livingston,TX,48750775,Buddy
+Australian Cattle Dog / Blue Heeler,Carrollton,GA,48750994,Flip
+Hound,Wilton,NY,48750987,Berett
+Pit Bull Terrier,Salem,OR,48750978,Daisy
+German Shepherd Dog,Grand Rapids,MI,48750977,Duke
+Norwegian Elkhound,Grand Rapids,MI,48750976,Louie
+Shepherd,Asheville,NC,48750963,Ruby
+Retriever,Asheville,NC,48750961,Harvey
+Boxer,Asheville,NC,48750960,Abby
+Retriever,Asheville,NC,48750962,Maggie
+Pit Bull Terrier,Asheville,NC,48750965,Happy
+Catahoula Leopard Dog,Asheville,NC,48750964,Jasper
+Mixed Breed,Jacksonville,FL,48750958,Missy
+Pit Bull Terrier,Columbia,MO,48750959,Pearl
+Pit Bull Terrier,Greenfield,TN,48750874,Tiny
+Australian Kelpie,Phoenix,AZ,48750941,GOOSE
+Hound,Nashville,TN,48750934,Indy
+Pit Bull Terrier,Justin,TX,48750873,*Snow Bunny
+Catahoula Leopard Dog,Lafayette,IN,48750931,Samson
+Mixed Breed,Madisonville,TN,48750937,Dani
+Mixed Breed,Madisonville,TN,48750938,Darla
+Labrador Retriever,San Mateo,CA,48750787,Batty
+Shepherd,Brooks,AB,48750889,Kaya
+Chihuahua,Elko,NV,48750867,42132723 / Brownie
+Chihuahua,Bauxite,AR,48750899,Gunther
+Great Pyrenees,Brooks,AB,48750875,Roxy
+Hound,Fort Lauderdale,FL,48750886,Carmen
+Terrier,Holly Springs,NC,48750887,Sofie
+Maltese,Fort Lauderdale,FL,48750885,Peludo
+Rat Terrier,Dyer,IN,48749402,Naomi
+Chihuahua,San Francisco,CA,48750883,*Prairie* puppy
+Bernese Mountain Dog,Brooks,AB,48750661,Shadow
+West Highland White Terrier / Westie,San Diego,CA,48750613,Caspar
+Labrador Retriever,Justin,TX,48750822,*Buster
+Pit Bull Terrier,Covington,GA,48750818,Dog Pen 1
+Terrier,Madisonville,KY,48750782,Zeus (A45218470)
+Labrador Retriever,Grand Rapids,MI,48750807,Baby
+Labrador Retriever,Houston,TX,48750804,Buddy
+Black and Tan Coonhound,Tupelo,MS,48750801,Harry - 081103N
+Black and Tan Coonhound,Tupelo,MS,48750799,Draco - 081104N
+Black and Tan Coonhound,Tupelo,MS,48750800,Hermione - 081105N
+Black and Tan Coonhound,Tupelo,MS,48750803,Rubeus - 081107N
+Black and Tan Coonhound,Tupelo,MS,48750802,Nagini - 081106N
+Labrador Retriever,Crystal Lake,IL,48750777,Delaney
+Pit Bull Terrier,Madison,NJ,48750795,Riley
+Australian Cattle Dog / Blue Heeler,Justin,TX,48750617,*Lobo
+Pit Bull Terrier,Levelland,TX,48750774,Della
+Labrador Retriever,Unionville,VA,48750207,Stump
+Terrier,Denton,TX,48750778,CARLY
+Beagle,Madisonville,KY,48750633,Darla
+Pit Bull Terrier,Bryan,TX,48750773,Chewbacca
+Siberian Husky,Milwaukee,WI,48750755,Rocky
+Mixed Breed,Milwaukee,WI,48750759,D-O-G
+Shepherd,Milwaukee,WI,48750753,Jane
+Boxer,Eugene,OR,48750764,Cooper
+Beagle,Milwaukee,WI,48750752,Pika
+Cattle Dog,Eugene,OR,48750765,Weston
+Pit Bull Terrier,Milwaukee,WI,48750757,Apallo
+Shih Tzu,Irving,TX,48750762,Pookie
+Dachshund,Irving,TX,48750761,Boobie
+Hound,Dallas,TX,48750631,Fritz
+Labrador Retriever,Greenville,SC,48750750,Buffy
+Labrador Retriever,Greenville,SC,48750751,Iris
+Doberman Pinscher,Longview,TX,48750734,Carrot
+Doberman Pinscher,Longview,TX,48750728,Rhubarb
+Labrador Retriever,Longview,TX,48750727,Richie
+Pit Bull Terrier,Chattanooga,TN,48750724,Theo
+Rhodesian Ridgeback,Chattanooga,TN,48750723,Henrietta
+Terrier,Chattanooga,TN,48750722,Mitchell
+Boxer,Chattanooga,TN,48750725,Lucietoo
+Retriever,Greenville,SC,48750710,Mozzarella
+Cattle Dog,Kansas City,MO,48750742,Lola
+American Staffordshire Terrier,Greenville,SC,48750709,Tonya
+American Staffordshire Terrier,Greenville,SC,48750706,Tango
+Retriever,Greenville,SC,48750705,Subwoofer
+American Staffordshire Terrier,Greenville,SC,48750704,JK Growling
+Retriever,Greenville,SC,48750708,Rocky
+Hound,Greenville,SC,48750707,Rambo
+Beagle,Greenville,SC,48750703,Scout
+Pit Bull Terrier,Bowling Green,KY,48750697,Ramona
+Pit Bull Terrier,Rochester Hills,MI,48750695,Donita
+Labrador Retriever,Pekin,IL,48750693,Makk
+Shepherd,Independence,MO,48750691,Max
+German Shepherd Dog,Houma,LA,48750688,Elroy
+Mixed Breed,Chamblee,GA,48750685,Ferb - IN FOSTER
+Mixed Breed,Chamblee,GA,48750684,Marbella
+Mixed Breed,Orlando,FL,48750682,Ari
+Cairn Terrier,Madera,CA,48750665,Hailey
+Pit Bull Terrier,Columbia,SC,48750640,Azalea
+Labrador Retriever,Andover,MA,48750559,Bingo
+Mixed Breed,Bishop,GA,48750187,Taina
+Doberman Pinscher,San Francisco,CA,48750635,Penelope
+Chihuahua,San Francisco,CA,48750634,*Eros* puppy
+Labrador Retriever,West Chicago,IL,48750620,Esquire
+Siberian Husky,Columbus,NE,48750624,Mishka
+Labrador Retriever,Columbia,SC,48750627,Coreopsis
+Australian Cattle Dog / Blue Heeler,McCall,ID,48750563,Lexi
+American Staffordshire Terrier,Cookeville,TN,48750618,Sulley
+Catahoula Leopard Dog,Cookeville,TN,48750619,Kristoff Real Name (Inmate)
+American Bulldog,Columbia,SC,48750577,Bella
+Mixed Breed,Boerne,TX,48750616,Olaf
+Australian Shepherd,Boerne,TX,48750614,Elsa
+Labrador Retriever,Boerne,TX,48750615,Kara
+Collie,El Paso,TX,48750612,45273350
+Boxer,El Paso,TX,48750611,45273290
+Chihuahua,El Paso,TX,48750610,45176355
+Shepherd,Versailles,KY,48750603,Joe
+Labrador Retriever,Rock Falls,IL,48750601,BEN
+Miniature Pinscher,Huntington,WV,48750591,Chip
+German Shepherd Dog,Huntington,WV,48750587,Biggie
+Mixed Breed,Huntington,WV,48750589,Pac
+Chihuahua,Huntington,WV,48750590,Dale
+Mixed Breed,Huntington,WV,48750588,Cocoa
+Mixed Breed,Huntington,WV,48750586,Alfie stray hold 8/17
+Mixed Breed,Huntington,WV,48750585,Bonnie
+German Shepherd Dog,Kingman,KS,48750583,Gretchen
+Great Pyrenees,Corpus Christi,TX,48750582,Simon
+Beagle,Columbia,MO,48750580,Cosmo
+Spaniel,Columbia,MO,48750581,Sonic
+Hound,Middleburg,FL,48750584,Frankie 19360
+Boxer,Justin,TX,48750507,*Ennis
+American Staffordshire Terrier,San Diego,CA,48750545,Tea Rose
+Rhodesian Ridgeback,Unionville,VA,48750516,Moss
+Golden Retriever,Moscow,ID,48750469,Achilles
+Hound,Columbia,SC,48750564,Aloalo
+Chihuahua,Oregon City,OR,48743523,Acura
+Shepherd,Columbia Station,OH,48750566,Rum
+Boston Terrier,McCall,ID,48750333,Maui
+Catahoula Leopard Dog,Denton,TX,48750556,FINN
+Mixed Breed,Media,PA,48750321,Sheba
+Belgian Shepherd / Malinois,Pearland,TX,48750557,Mia
+Labrador Retriever,Princeton,MN,48750550,Chuck
+Pug,North Syracuse,NY,48750547,Ernie
+Terrier,North Syracuse,NY,48750548,Jo Jo
+Chihuahua,San Francisco,CA,48750543,*Morpheus* puppy
+Chihuahua,San Francisco,CA,48750542,*Bert* puppy
+Chihuahua,Severn,MD,48688600,Gibbs
+Boxer,Roanoke,VA,48750538,Luna
+German Shepherd Dog,Roanoke,VA,48750536,Snowball
+Pit Bull Terrier,Roanoke,VA,48750537,Nox
+Pit Bull Terrier,Wheaton,IL,48750522,Thor
+Great Pyrenees,Webster,WI,48750529,Goliath
+Husky,Toronto,ON,48750318,Fox
+Akita,Warren,OH,48750508,Heidi
+Beagle,San Diego,CA,48750193,Zuko means Glory :)
+Pit Bull Terrier,Eighty Four,PA,48750506,Star
+Rhodesian Ridgeback,Unionville,VA,48750208,Birch
+Labrador Retriever,Boerne,TX,48750509,Lina
+Labrador Retriever,Boerne,TX,48750510,Naveah
+Maltese,Warren,OH,48750478,Ace
+Terrier,Aurora,CO,48750496,Lola
+Shih Tzu,Pembroke Pines,FL,48750265,Leo
+Chihuahua,Monroe,OH,48749756,Tinker
+Pit Bull Terrier,San Jacinto,CA,48750494,R240202/ Coda
+German Shorthaired Pointer,Salt Lake City,UT,48750488,Lucky
+Labrador Retriever,Fort Worth,TX,48750490,?Dippin Dot
+Labrador Retriever,Fort Worth,TX,48750492,?Breyer
+Labrador Retriever,Fort Worth,TX,48750491,?Bresler
+Mixed Breed,West Olive,MI,48750486,Bella
+Pekingese,Uniontown,PA,48750362,Kaylee
+Labrador Retriever,Macon,GA,48750470,GOOFY
+Labrador Retriever,Macon,GA,48750472,BRISTOL
+Mixed Breed,Macon,GA,48750471,DONALD
+Rottweiler,Tallahassee,FL,48750465,BAILEY
+Labrador Retriever,Tallahassee,FL,48750463,GODIVA
+Norfolk Terrier,Rosenberg,TX,48750458,A027016
+Labrador Retriever,Rosenberg,TX,48750459,A027015
+Great Pyrenees,Denver,CO,48750453,SHEBA
+Lhasa Apso,Denver,CO,48750452,MAX
+Catahoula Leopard Dog,Denver,CO,48750454,DRESDEN
+Siberian Husky,Denver,CO,48750455,LUCY
+Beagle,Fort Thomas,KY,48750325,Ashton
+Labrador Retriever,San Antonio,TX,48750450,LEVI
+Labrador Retriever,Saint Louis,MO,48750443,ROOSTER
+Australian Cattle Dog / Blue Heeler,Saint Louis,MO,48750442,JACKIE
+Mixed Breed,Charleston,SC,48749969,Ella
+Chihuahua,San Antonio,TX,48750451,BLONDIE
+American Staffordshire Terrier,San Antonio,TX,48750448,LUNA
+Chihuahua,San Antonio,TX,48750449,MAX
+Australian Cattle Dog / Blue Heeler,San Antonio,TX,48750447,NINO
+Labrador Retriever,San Antonio,TX,48750446,A580985
+Poodle,San Antonio,TX,48750445,CHESTER
+Chihuahua,San Antonio,TX,48750444,ROXY
+Mixed Breed,Jacksonville,FL,48750437,JOSIE
+German Shepherd Dog,Fayetteville,NC,48750436,A343854
+Dutch Shepherd,Fayetteville,NC,48750435,A343853
+Mastiff,Orlando,FL,48750429,PANTERA
+Siberian Husky,Chula Vista,CA,48750428,BELLA
+Pit Bull Terrier,Tacoma,WA,48750426,CASH
+German Shepherd Dog,Atlanta,GA,48750406,MARC
+Rat Terrier,Atlanta,GA,48750403,LARGE FRY
+Labrador Retriever,Waco,TX,48750393,DELILAH
+American Bulldog,West Palm Beach,FL,48750390,PRESLEY
+Chihuahua,Houston,TX,48750384,COOKIE
+Chihuahua,Houston,TX,48750377,CHIA
+German Shepherd Dog,Houston,TX,48750374,SMOKE
+Australian Cattle Dog / Blue Heeler,Grand Prairie,TX,48750373,GATOR
+Pit Bull Terrier,Dallas,TX,48750357,1105757
+Pit Bull Terrier,Dallas,TX,48750354,1105764
+Pit Bull Terrier,Dallas,TX,48750355,1105759
+Pit Bull Terrier,Dallas,TX,48750356,1105758
+Pit Bull Terrier,Dallas,TX,48750358,1105765
+German Shepherd Dog,Dallas,TX,48750353,1105779
+Pit Bull Terrier,Dallas,TX,48750349,MANCO
+Pit Bull Terrier,Dallas,TX,48750348,1105761
+Pit Bull Terrier,Dallas,TX,48750351,1105762
+Pit Bull Terrier,Dallas,TX,48750350,1105760
+Pit Bull Terrier,Dallas,TX,48750352,1105763
+Mixed Breed,Santa Fe,NM,48750344,ZUMA
+Maltese,Santa Cruz,CA,48750345,MUPPET*
+Mixed Breed,Santa Fe,NM,48750342,JEREMIAH
+Mixed Breed,Santa Fe,NM,48750343,SKYE
