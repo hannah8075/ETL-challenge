@@ -5,19 +5,19 @@ Author: Hannah Wang, Amber Pizzo
 This project pulls adoptable dogs data from PetFinder and Dogtime and loads the data in a relational database.
 
 ## Data Sources
-Petfinder API
-Dogtime.com
+- Petfinder API
+- Dogtime.com
 
 ## Libraries Used
-BeautifulSoup
-requests
-pymongo
-splinter
-time
-json
-pandas
-pprint
-sqlalchemy
+- BeautifulSoup
+- requests
+- pymongo
+- splinter
+- time
+- json
+- pandas
+- pprint
+- sqlalchemy
 
 ## Extract
 ### Petfinder API
