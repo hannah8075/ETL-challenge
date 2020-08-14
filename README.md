@@ -44,7 +44,7 @@ Next, we wanted to present specific information about each dog breed, including 
 
 After finalizing the list of dog breeds to find additional characteristics for (by importing PetFinder result csv and extracting all unique dog breeds), BeautifulSoup was again used to scrape the star rating for adaptability, all around friendliness, health and grooming needs, trainability, and physical needs. Splinter was used to navigate to each individual dog breed url using a for loop. 
 
-Please note: based on the number of urls to be visited, this process will take several minutes. This will depend on the resources available for your system. Also, if you receive an 'list out of range' error in your Dog_breed_info_cleaning notebook for this step, please check the browser window that was opened by Splinter. Likely, the page timed out. Therefore, close this window, and rerun the steps to relaunch the browser and iterate through all the dog urls. 
+**Please note**: based on the number of urls to be visited, this process will take several minutes. This will depend on the resources available for your system. Also, if you receive an 'list out of range' error in your Dog_breed_info_cleaning notebook for this step, please check the browser window that was opened by Splinter. Likely, the page timed out. Therefore, close this window, and rerun the steps to relaunch the browser and iterate through all the dog urls. 
 
 It is also important to note that, when Splinter is being used, the path to the chromedriver must be specified. In this case, we have uploaded the chromedriver.exe in this repository (but may need to be replaced if outdated). The syntax in the jupyter notebook will be dependent on your operating system. We have included the syntax for both Windows and Mac users. When running the code, please comment out the syntax that is not applicable to your system.
 
@@ -66,7 +66,7 @@ Create a database called 'petfinder_db'(or choose your own naming convention, bu
 
 Since we scraped all 377 dog breeds and their urls, but only extracted additional characteristics for 56 dog breeds, we decided to create 2 separate tables : dog_links (which includes the breed and url for all dog breeds listed on the dogtime webpage) and dog_traits (which includes the breed and star ratings for adaptability, all around friendliness, health and grooming needs, trainability, and physical needs).
 
-Code is provided to load all data into postgreSQL. However, we have also provided the csv outputs of the finalized dataframes in the Data folder if needed.
+**Note:** Code is provided to load all data into postgreSQL. However, we have also provided the csv outputs of the finalized dataframes in the Data folder if needed.
 
 ## Basic Steps
 To recreate the final database:
@@ -77,7 +77,7 @@ To recreate the final database:
 5. Run Dog_breed_info_cleaning jupyter notebook (this will import data to dog_links and dog_traits tables)
 6. Perform desired SQL queries
 
-Note: To run the Jupyter Notebooks, be sure to create a config.py file with user = "your_postgres_username" and pw = "your_postgres_password" in two separate lines. Save this file in the same directory as the Jupyter Notebooks. 
+**Note**: To run the Jupyter Notebooks, be sure to create a config.py file with user = "your_postgres_username" and pw = "your_postgres_password" in two separate lines. Save this file in the same directory as the Jupyter Notebooks. 
 
 ## Use Case
 By storing data on adoptable dogs and their characteristics (based on breed), users will be able to determine what type of dog might be a good match for their family. The dog_links table also provides a link to a page with more information to help the user learn more about each dog breed. 
