@@ -66,8 +66,18 @@ Since we scraped all 377 dog breeds and their urls, but only extracted additiona
 
 Code is provided to load all data into postgreSQL. However, we have also provided the csv outputs of the dataframes in the data folder if needed.
 
+## Basic Steps
+To recreate the final database:
+1. Perform API calls to retrieve adoptable dogs (see API section above for details)
+2. Create database in PostgresSQL
+3. Run schema to create tables in database
+4. Run Petfinder_data_cleaning jupyter notebook
+5. Run Dog_info_cleaning jupyter notebook
+6. Perform desired SQL queries
+
+Note: To run the Jupyter Notebooks, be sure to create a config.py file with user = "your_postgres_username" and pw = "your_postgres_password" in two separate lines. Save this file in the same directory as the Jupyter Notebooks. 
+
 ## Use Case
 By storing data on adoptable dogs and their characteristics (based on breed), users will be able to determine what type of dog might be a good match for their family. The dog_links table also provides a link to a page with more information to help the user learn more about each dog breed. 
-
 
 ![Alt Text](https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48752074/2/?bust=1597187863\u0026width=100)
