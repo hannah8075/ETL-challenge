@@ -36,15 +36,17 @@ Given that the maximum number of results that can be called per page is 100, we 
 The five JSON files are saved in the data folder so the steps outlined above are optional (unless you want to pull new or more data). 
 
 ### Scraping Dogtime.com
-To retrieve data about dog characteristics, https://dogtime.com/dog-breeds was scraped using BeautifulSoup. This website was chosen because it contains information about a wide variety of dog breeds.
+To retrieve data about dog breed characteristics, https://dogtime.com/dog-breeds was scraped using BeautifulSoup. This website was chosen because it contains a great deal of information about a wide variety of dog breeds.
 
-First, the website was scraped for all dog breeds listed, as well as the url to find details regarding each individual dog.
+First, the website was scraped for all dog breeds listed, as well as corresponding urls for each individual dog breed.
 
-Next, we wanted to present specific information about each dog breed, including adaptability, all around friendliness, health and grooming needs, trainability, and physical needs (using a star rating of 1-5). However, there are 377 dog breeds listed on the site. In order to get information for each dog breed, our code would need to visit each individual dog breed browser. Based on resource constraints, we decided to only provide these additional details about the dog breeds found from our API call section. In order to search for only these specific dog breeds, we utilized the csv output from the Petfinder_data_cleaning jupyter notebook. However, in an ideal world, with unlimited resources, we would scrape these additional breed characteristics for every dog breed listed on the site. 
+Next, we wanted to present specific information about each dog breed, including adaptability, all around friendliness, health and grooming needs, trainability, and physical needs (using a star rating of 1-5). However, there are 377 dog breeds listed on the site. In order to get information for each dog breed, our code would need to visit each individual dog breed webpage. Based on resource constraints, we decided to only provide these additional details about the dog breeds found from our API call section. In order to search for only these specific dog breeds, we utilized the csv output from the Petfinder_data_cleaning jupyter notebook. However, in an ideal world, with unlimited resources, we would scrape these additional breed characteristics for every dog breed listed on the site (thus, not utilizing a csv at all).
 
-After finalizing the list of dog breeds to find additional characteristics for, BeautifulSoup was again used to scrape the characteristic star rating for adaptability, all around friendliness, health and grooming needs, trainability, and physical needs. Splinter was used to navigate to each individual dog breed url using a for loop. Please note: based on the number of urls to be visited, this process will take several minutes. This will depend on the resources available for your system.
+After finalizing the list of dog breeds to find additional characteristics for (by importing PetFinder result csv and extracting all unique dog breeds), BeautifulSoup was again used to scrape the star rating for adaptability, all around friendliness, health and grooming needs, trainability, and physical needs. Splinter was used to navigate to each individual dog breed url using a for loop. 
 
-It is also important to note that, when Splinter is being used, the path to the chromedriver must be specified. The syntax will be dependent on your operating system. We have included the syntax for both Windows and Mac users. When running the code, please comment out the syntax that is not applicable to your system.
+Please note: based on the number of urls to be visited, this process will take several minutes. This will depend on the resources available for your system. Also, if you receive an 'list out of range' error in your Dog_breed_info_cleaning notebook for this step, please check the browser window that was opened by Splinter. Likely, the page timed out. Therefore, close this window, and rerun the steps to relaunch the browser and iterate through all the dog urls. 
+
+It is also important to note that, when Splinter is being used, the path to the chromedriver must be specified. In this case, we have uploaded the chromedriver.exe in this repository (but may need to be replaced if outdated). The syntax in the jupyter notebook will be dependent on your operating system. We have included the syntax for both Windows and Mac users. When running the code, please comment out the syntax that is not applicable to your system.
 
 ## Transform
 To transform the petfinder data (which is in five json files in the data folder), load the json into Jupyter Notebook. We created a function called petfinder() that inputs the json file number(1-5) to extract the data we want (id, name, primary breed, city, and state) as lists of dictionaries. These five lists are then concatenated and made into a dataframe using Pandas. 
@@ -57,22 +59,22 @@ The next step was creating a dataframe for each breed and the additional charact
 
 ## Load
 ### Rationale
-The data was loaded into a relational database (postgreSQL) because of the relationship that exist between the tables. The table schema is stored in the schema.sql file, which provides SQL code for creating the tables(with table names: petfinder_dogs, dog_links, and dog_traits). The primary key for the petdfinder_dogs table was pet_id, but this table contained breed information, which is a primary key for the dog_links and dog_traits table. Using a relational database allows a user to join the table to conduct data analysis (a query.sql file is created to provide some sample queries).
+The data was loaded into a relational database (postgreSQL) because of the relationships that exist between the tables. The table schema is stored in the schema.sql file, which provides SQL code for creating the tables (with table names: petfinder_dogs, dog_links, and dog_traits). The primary key for the petdfinder_dogs table was pet_id, but this table contained breed information, which is a primary key for the dog_links and dog_traits table. Using a relational database allows a user to join the tables to conduct data analysis (a query.sql file is created to provide some sample queries).
 
 ### Loading data
 Create a database called 'petfinder_db'(or choose your own naming convention, but remember to assign this to the variable database_name). Run the schema.sql to create the tables in the database.
 
 Since we scraped all 377 dog breeds and their urls, but only extracted additional characteristics for 56 dog breeds, we decided to create 2 separate tables : dog_links (which includes the breed and url for all dog breeds listed on the dogtime webpage) and dog_traits (which includes the breed and star ratings for adaptability, all around friendliness, health and grooming needs, trainability, and physical needs).
 
-Code is provided to load all data into postgreSQL. However, we have also provided the csv outputs of the dataframes in the data folder if needed.
+Code is provided to load all data into postgreSQL. However, we have also provided the csv outputs of the finalized dataframes in the Data folder if needed.
 
 ## Basic Steps
 To recreate the final database:
 1. Perform API calls to retrieve adoptable dogs (see API section above for details)
-2. Create database in PostgresSQL
-3. Run schema to create tables in database
-4. Run Petfinder_data_cleaning jupyter notebook
-5. Run Dog_info_cleaning jupyter notebook
+2. Create database in PostgresSQL (see Loading data section for details about database name)
+3. Run schema.sql to create tables in database
+4. Run Petfinder_data_cleaning jupyter notebook (this will import data to petfinder_dogs table)
+5. Run Dog_breed_info_cleaning jupyter notebook (this will import data to dog_links and dog_traits tables)
 6. Perform desired SQL queries
 
 Note: To run the Jupyter Notebooks, be sure to create a config.py file with user = "your_postgres_username" and pw = "your_postgres_password" in two separate lines. Save this file in the same directory as the Jupyter Notebooks. 
@@ -80,4 +82,4 @@ Note: To run the Jupyter Notebooks, be sure to create a config.py file with user
 ## Use Case
 By storing data on adoptable dogs and their characteristics (based on breed), users will be able to determine what type of dog might be a good match for their family. The dog_links table also provides a link to a page with more information to help the user learn more about each dog breed. 
 
-![Alt Text](https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48752074/2/?bust=1597187863\u0026width=100)
+![Jade](https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/48752074/2/?bust=1597187863\u0026width=100)
